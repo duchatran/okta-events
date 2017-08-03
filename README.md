@@ -1,3 +1,4 @@
+NOTE: This repo is deprecated.
 # Okta Event Collector
 Pulls events from Okta and sends them to Sumo Logic.
 
